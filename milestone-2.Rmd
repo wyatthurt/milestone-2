@@ -1,0 +1,14 @@
+---
+title: 'Milestone #2'
+author: "Wyatt Hurt"
+date: "9/24/2020"
+output: html_document
+---
+
+This is where my [GitHub repo lives](https://github.com/wyatthurt/milestone-2).
+
+## Project One: "Title" by XXX
+Here's what I like...
+
+## Project Two: "Titlte" by YYY
+Here's what I like...
